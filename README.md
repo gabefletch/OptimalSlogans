@@ -1,7 +1,7 @@
 # OptimalSlogans
 Code for the text slogans that appear beneath the Optimal logo on the Optimal site.<br>
 
-OptimalSlogans is a simple JavaScript codepoint hosted over HTTPS via [val.town](https://val.town) which is then intercepted by a [Fetch](https://fetch.tools) component within [Framer](https://framer.com) where the [Optimal project](https://github.com/gabefletch/optimal-v11) is hosted. <br>
+OptimalSlogans is a simple JavaScript codepoint hosted over HTTPS via [Val Town](https://val.town) which is then intercepted by a [Fetch](https://fetch.tools) component within [Framer](https://framer.com) where the [Optimal project](https://github.com/gabefletch/optimal-v11) is hosted. <br>
 
 ### Code Process Overview
 1 - A simple text list created with `const textlist`:
